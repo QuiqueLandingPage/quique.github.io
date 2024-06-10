@@ -1,0 +1,22 @@
+.sass-cache
+
+# Jekyll
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby
+.bundle/
+vendor/
+
+# Site output
+_site/
+_site/*
+
+# Logs and temp files
+*.log
+.temp
+.DS_Store
+
+# System files
+Thumbs.db
+ehthumbs.db
